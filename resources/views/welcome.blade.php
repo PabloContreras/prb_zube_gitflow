@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Holis
+                    Holis :)
                 </div>
 
                 <div class="links">
